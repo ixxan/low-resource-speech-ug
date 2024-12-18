@@ -1,1 +1,1 @@
-# low-resource-speech-uyghur
+# low-resource-speech-ug
